@@ -8,8 +8,31 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 | Library                            | Link to GitHub                                      |
 | ---------------------------------- | --------------------------------------------------- |
-| Homey-arduino                      |  https://github.com/athombv/homey-arduino-library   |      
+| Homeyduino                         |  https://github.com/athombv/homey-arduino-library   |      
 | DimmerControl                      |  https://github.com/Adminius/DimmerControl          |
+
+
+## Wiring
+
+## PCB Layout
+See [PCB]
+
+
+## Part List
+| Part                               | Link                                    |
+| ---------------------------------- | --------------------------------------------------- |
+| Homeyduino                         |  https://github.com/athombv/homey-arduino-library   |      
+| DimmerControl                      |  https://github.com/Adminius/DimmerControl          |
+
+## Sketch
+
+
+## References
+- Athom Homey: https://www.athom.com/en/
+- Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
+
+
+
 
 
 #### How to use
