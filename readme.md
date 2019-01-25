@@ -27,7 +27,9 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 ### Sketch
 
+
 ### Fade curve
+
 
 ### References
 - Athom Homey: https://www.athom.com/en/
@@ -35,7 +37,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 
-#### How to use
+### How to use
 
 See [example](examples/DimmerControl/DimmerControl.ino)
 
