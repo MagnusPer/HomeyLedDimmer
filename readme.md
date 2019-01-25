@@ -15,7 +15,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 ### Wiring
 
 ### PCB Layout
-See [PCB]
+![PCB Layout](https://github.com/MagnusPer/HomeyLedDimmer/blob/master/PCB%20Layout/HomeyLedDimmer_v1-0_etch_silk_top.pdf)
 
 
 ### BOM List
