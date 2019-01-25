@@ -13,6 +13,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 ### Wiring
+<img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.jpg" width="500">
 
 ### PCB Layout
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/PCB%20Layout/PCB%20board.JPG" width="200"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/PCB%20Layout/PCB%20mounted.JPG" width="209">
