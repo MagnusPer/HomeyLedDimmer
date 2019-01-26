@@ -31,7 +31,10 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 |  MOSFET                            |                                                     |
 |  MOSFET                            |                                                     |
 
-## Fade curve
+## Features
+ - cusomized fade curve
+ - OTA
+
 
 
 ## References
