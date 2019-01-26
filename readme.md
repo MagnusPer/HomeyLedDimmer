@@ -20,22 +20,20 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 ## BOM List
-| Part                               | Link                                                |
+| Part                               | Comment/Link                                        |
 | ---------------------------------- | --------------------------------------------------- |
-|  Terminal block                    |                                                     |      
-|  MOSFET                            |                                                     |
-|  Wemos D1 mini                     |                                                     |
-|  Capacitor                             |                                                     |
-|  MOSFET                            |                                                     |
-|  MOSFET                            |                                                     |
-|  MOSFET                            |                                                     |
-|  MOSFET                            |                                                     |
+|  Wemos D1 mini                     |                                                     |   
+|  Terminal block                    | 5.08 mm                                             |      
+|  MOSFET - IRLZ44N                  | http://www.irf.com/product-info/datasheets/data/irlz44n.pdf |
+|  Voltage Regulator - LD1117v33     | https://www.sparkfun.com/datasheets/Components/LD1117V33.pdf|
+|  Capacitor 10uF                    |                                                     |
+|  Capacitor 100nF                   |                                                     |
+|  Resistor 1 kohm                   |                                                     |
+|  Resistor 220 kohm                 |                                                     |
 
 ## Features
- - cusomized fade curve
+ - Customized linear fade curve
  - OTA
-
-
 
 ## References
 - Athom Homey: https://www.athom.com/en/
@@ -43,6 +41,5 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 
-## How to use
-
-See [example](examples/DimmerControl/DimmerControl)
+## How to use Dimmer Control library 
+See [examples](https://github.com/Adminius/DimmerControl/tree/master/examples)
