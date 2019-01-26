@@ -16,7 +16,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.png" width="400">
 
 ## PCB Layout
-<img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/HomeyLedDimmer_v1-0_pcb.jpg" width="195"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20top.JPG" width="200"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20top.JPG" width="209"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20side.JPG" width="209">
+<img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/HomeyLedDimmer_v1-0_pcb.jpg" width="185"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20top.JPG" width="180"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20top.JPG" width="220"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20side.JPG" width="230">
 
 
 
@@ -42,5 +42,5 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 
-## How to use Dimmer Control library 
-See [examples](https://github.com/Adminius/DimmerControl/tree/master/examples)
+## How to use Dimmer Control Library 
+See [examples in this GitHub repository](https://github.com/Adminius/DimmerControl/tree/master/examples)
