@@ -1,5 +1,5 @@
 # HomeyLedDimmer
-An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel LED Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical momentary switch. 
+An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel LED PWM Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical momentary switch. 
 
 ## Installation
 In the Homey install the [Homeyduino](https://apps.athom.com/app/com.athom.homeyduino) app 
@@ -22,10 +22,14 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 ## BOM List
 | Part                               | Link                                                |
 | ---------------------------------- | --------------------------------------------------- |
-|                                    |                                                     |      
-|                                    |                                                     |
-
-
+|  Terminal block                    |                                                     |      
+|  MOSFET                            |                                                     |
+|  Wemos D1 mini                     |                                                     |
+|  Capacitor                             |                                                     |
+|  MOSFET                            |                                                     |
+|  MOSFET                            |                                                     |
+|  MOSFET                            |                                                     |
+|  MOSFET                            |                                                     |
 
 ## Fade curve
 
