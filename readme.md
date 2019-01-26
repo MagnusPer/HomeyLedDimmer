@@ -43,4 +43,4 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 
 
 ## How to use Dimmer Control Library 
-See [examples in this GitHub repository](https://github.com/Adminius/DimmerControl/tree/master/examples)
+Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl) repository.
