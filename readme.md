@@ -9,7 +9,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 | Library                            | Link to GitHub                                      |
 | ---------------------------------- | --------------------------------------------------- |
 | Homeyduino                         |  https://github.com/athombv/homey-arduino-library   |      
-| DimmerControl                      |  https://github.com/Adminius/DimmerControl          |
+| DimmerControl  v1.0.0              |  https://github.com/Adminius/DimmerControl          |
 
 
 ## Wiring
