@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=HomeyLedDimmer_v1-0
+*Date=10:44:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;4.31546;-7.62729;90;Bottom;TXT15
+2;;;53.799;-17.2998;90;Bottom;TXT17
+3;;cpol-radial-10uf-25v;33.0219;-6.31526;-90;Bottom;C2
+4;;;38.3586;-6.58398;0;Bottom;TXT17
+5;220k;THT;22.8619;-22.8253;-90;Bottom;R1
+6;;;2.54188;-2.50515;0;Bottom;Hole3
+7;;;22.6661;-23.0684;90;Bottom;TXT17
+8;;THT;9.14586;-7.45833;180;Bottom;J3
+9;;;53.342;-32.9853;0;Bottom;Hole1
+10;;;53.342;-2.50515;0;Bottom;Hole2
+11;;;4.38398;-18.7773;90;Bottom;TXT15
+12;;;4.46123;-28.066;90;Bottom;TXT15
+13;;;18.4169;-20.2853;-90;Bottom;IRLZ44N
+14;;;23.2064;-11.686;0;Bottom;TXT17
+15;;THT;9.14586;-17.6183;180;Bottom;J2
+16;;;16.2579;-7.58533;-90;Bottom;LD1117v33
+17;1k;THT;35.5619;-25.3653;90;Bottom;R2
+18;;;35.5527;-25.0993;90;Bottom;TXT17
+19;;;2.54188;-32.9853;0;Bottom;Hole4
+20;;THT;9.14586;-27.7783;180;Bottom;J1
+21;;;39.3718;-18.0725;0;Bottom;WeMos D1 Mini2
+22;;cap-pth-5mm;22.8619;-7.62542;-90;Bottom;100nF
