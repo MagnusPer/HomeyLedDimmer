@@ -1,7 +1,7 @@
 # Homeyduino LED Dimmer
 An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel LED PWM Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical button. 
 
-The basic dimmer control function is based the [DimmerControl](https://github.com/Adminius/DimmerControl) library. 
+The dimmer control function is based the [DimmerControl](https://github.com/Adminius/DimmerControl) library. 
 
 
 ## Installation
@@ -45,4 +45,4 @@ Gerber files for production is located in the [extras/PCB Layout/Gerber](https:/
 - Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
 
 ## How to use Dimmer Control Library 
-Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl)by Adminius repository.
+Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl) by Adminius repository.
