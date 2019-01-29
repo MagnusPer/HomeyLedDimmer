@@ -19,7 +19,7 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.png" width="400">
 
 ## PCB Layout
-Gerber files for production is located in the extras/PCB Layout folder.
+Gerber files for production is located in the [extras/PCB Layout/Gerber](https://github.com/MagnusPer/Homeyduino_LedDimmer/tree/master/extras/PCB%20layout/Gerber) folder.
 
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/HomeyLedDimmer_v1-0_pcb.jpg" width="185"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20top.JPG" width="180"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20top.JPG" width="220"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20side.JPG" width="230">
 
