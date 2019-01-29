@@ -24,12 +24,11 @@ Gerber files for production is located in the [extras/PCB Layout/Gerber](https:/
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/HomeyLedDimmer_v1-0_pcb.jpg" width="185"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20top.JPG" width="180"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20top.JPG" width="220"> <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/PCB%20layout/PCB%20mounted%20side.JPG" width="230">
 
 
-
 ## BOM List
 | Part                               | Comment/Link                                        |
 | ---------------------------------- | --------------------------------------------------- |
 |  Wemos D1 mini                     |                                                     |   
-|  Terminal block                    | 5.08 mm                                             |      
+|  Terminal block - 5.08mm           | https://www.rutronik24.com/product/sauro/msb02005/5511.html |      
 |  MOSFET - IRLZ44N                  | http://www.irf.com/product-info/datasheets/data/irlz44n.pdf |
 |  Voltage Regulator - LD1117v33     | https://www.sparkfun.com/datasheets/Components/LD1117V33.pdf|
 |  Capacitor 10uF                    |                                                     |
@@ -45,7 +44,5 @@ Gerber files for production is located in the [extras/PCB Layout/Gerber](https:/
 - Athom Homey: https://www.athom.com/en/
 - Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
 
-
-
 ## How to use Dimmer Control Library 
-Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl) repository.
+Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl)by Adminius repository.
