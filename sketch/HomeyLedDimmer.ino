@@ -155,13 +155,6 @@ void loop(){
         dimDirection = true;
     }
 
-    //Loop to send init values during startup till Homey is responding 
-    if(SendOnOff == false or SendDim == false){                     
-        Serial.print(".");
-        SendOnOff = Homey.setCapabilityValue("onoff", false);       // Set init value
-        SendDim = Homey.setCapabilityValue("dim", 0);               // Set init value
-        delay(500);
-    }
     
     //A fix because the HomeKit(apple)app sending DIM values when light ON/OFF, needs to force return the DIM level
     if (SendDimInLoop){   
@@ -193,8 +186,8 @@ void taskButton(){
             
            if(led.getCurrentValue() == 0 && lastValue == 0){     // Max dim level if no lastValue stored
               led.taskNewValue(led.getMaxValue());               // Max DIM level                                  
-              Homey.setCapabilityValue("dim", lastValue*0.01);   // Update Homey with DIM level
               Homey.setCapabilityValue("onoff", true);           // Update Homey with ON state
+              Homey.setCapabilityValue("dim", lastValue*0.01);   // Update Homey with DIM level
            }
            
            if(led.getCurrentValue() == 0 && lastValue > 0){      // Turn on with last stored ON value
@@ -206,8 +199,8 @@ void taskButton(){
            if(led.getCurrentValue() > 0){                        // Turn OFF light 
               lastValue = led.getCurrentValue();                 // Store last ON value                      
               led.taskNewValue(0);
-              Homey.setCapabilityValue("dim", 0);                 // Update Homey with DIM level
               Homey.setCapabilityValue("onoff", false);           // Update Homey with OFF state
+              Homey.setCapabilityValue("dim", 0);                 // Update Homey with DIM level
            }
                      
         }
