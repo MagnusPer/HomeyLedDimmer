@@ -1,5 +1,5 @@
 # Homeyduino LED Dimmer
-An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel LED PWM Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical button. 
+An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical button. 
 
 The dimmer control function is based on the [DimmerControl](https://github.com/Adminius/DimmerControl) library. 
 
