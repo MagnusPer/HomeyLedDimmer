@@ -1,4 +1,4 @@
-# Homeyduino LED Dimmer
+# LED Dimmer
 An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled via MQTT topics a home automation system and/or by a physical button. 
 
 ## Installation
@@ -8,6 +8,15 @@ Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/
 | ---------------------------------- | --------------------------------------------------- |
 | PubSubClient                       |  https://github.com/knolleary/pubsubclient          |      
 
+## MQTT Topics
+MQTT Topics to be sent and recived. 
+
+| Topic                              | Description                                         |
+| ---------------------------------- | --------------------------------------------------- |
+| LedDimmer_1/LightStatus            |  set topic - On/Off                                 |
+| LedDimmer_1/Brightness             |  set topic - Dim value                              |
+| LedDimmer_1/HomeyLightStatus       |  get topic - On/Off                                 |
+| LedDimmer_1/HomeyBrightness        |  get topic - Dim value                              |
 
 ## Wiring
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.png" width="400">
