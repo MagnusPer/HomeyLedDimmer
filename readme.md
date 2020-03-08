@@ -1,22 +1,16 @@
 # Homeyduino LED Dimmer
-An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled by [Homey](https://www.athom.com/en/) home automation system and/or by a physical button. 
-
-One of the dimmer control function is based on the [DimmerControl](https://github.com/Adminius/DimmerControl) library and the other not 
-
+An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled via MQTT topics a home automation system and/or by a physical button. 
 
 ## Installation
-In the Homey install the [Homeyduino](https://apps.athom.com/app/com.athom.homeyduino) app 
-
 Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/Software). Install them either from GitHub repository directly or within the IDE application itself **Sketch > Import Library** 
 
 | Library                            | Link to GitHub                                      |
 | ---------------------------------- | --------------------------------------------------- |
-| Homeyduino                         |  https://github.com/athombv/homey-arduino-library   |      
-| DimmerControl  v1.0.0              |  https://github.com/Adminius/DimmerControl          |
+| PubSubClient                       |  https://github.com/knolleary/pubsubclient          |      
 
 
 ## Wiring
-<img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.png" width="400">
+<img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/LedDimmer.png" width="400">
 
 ## PCB Layout
 Gerber files for production is located in [extras/PCB Layout/Gerber](https://github.com/MagnusPer/Homeyduino_LedDimmer/tree/master/extras/PCB%20layout/Gerber) folder.
@@ -44,7 +38,6 @@ Gerber files for production is located in [extras/PCB Layout/Gerber](https://git
  
 
 ## References
-- Athom Homey: https://www.athom.com/en/
 - Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
 
 ## How to use Dimmer Control Library 
