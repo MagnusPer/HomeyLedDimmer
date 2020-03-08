@@ -47,7 +47,7 @@ Gerber files for production is located in [extras/PCB Layout/Gerber](https://git
  
 
 ## References
-- Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
+Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
 
 ## How to use Dimmer Control Library 
 Visit the [Dimmer Control](https://github.com/Adminius/DimmerControl) by Adminius repository.
