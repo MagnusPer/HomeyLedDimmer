@@ -13,10 +13,10 @@ MQTT Topics to be sent and recived.
 
 | Topic                              | Description                                         |
 | ---------------------------------- | --------------------------------------------------- |
-| LedDimmer_1/LightStatus            |  set topic - On/Off                                 |
-| LedDimmer_1/Brightness             |  set topic - Dim value                              |
-| LedDimmer_1/HomeyLightStatus       |  get topic - On/Off                                 |
-| LedDimmer_1/HomeyBrightness        |  get topic - Dim value                              |
+| LedDimmer/setLightStatus           |  set topic - On/Off                                 |
+| LedDimmer/setBrightness            |  set topic - Dim value (0-100)                      |
+| LedDimmer/getLightStatus           |  get topic - On/Off                                 |
+| LedDimmer/getBrightness            |  get topic - Dim value (0-100)                      |
 
 ## Wiring
 <img src="https://github.com/MagnusPer/HomeyLedDimmer/blob/master/extras/wiring/HomeyLedDimmer_v1-0.png" width="400">
