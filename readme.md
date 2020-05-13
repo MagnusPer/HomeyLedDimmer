@@ -1,5 +1,5 @@
 # LED Dimmer
-An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled via MQTT topics a home automation system and/or by a physical button. 
+An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled via MQTT topics a home automation system and/or by a physical push button. 
 
 ## Installation
 Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/Software). Install them either from GitHub repository directly or within the IDE application itself **Sketch > Import Library** 
